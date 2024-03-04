@@ -13,7 +13,7 @@ To install and run the Connect-It Django application, follow these steps:
 
 2. **Navigate to the Cloned Directory:**
     ```bash
-    cd Connect-It
+    cd Connect-It/connect_it
     ```
 
 3. **Install Dependencies:**
