@@ -47,12 +47,6 @@ After installation, follow these steps to use the Connect-It Django application:
 - **Cursor Control:** Control the cursor on the laptop/desktop using the mobile device.
 - **Text Input:** Write on the laptop/desktop via mobile by clicking on the editable space and typing on the mobile device's keyboard. Press enter to transfer the text to the laptop/desktop.
 
-## Notes
-
-- Ensure that both the laptop/desktop and the mobile device are connected to the same network for the application to work properly.
-- The application is primarily built for testing purposes and may have limitations or bugs.
-- Use caution when using the application, especially for controlling important devices or systems.
-
 ## Troubleshooting
 
 If you encounter any issues during installation or usage of the Connect-It Django application, please check the following:
